@@ -1,1 +1,1 @@
-# simon-game
+# Dicee-game
